@@ -5,6 +5,7 @@
     "target": "ES5",                                  
     "lib": ["ES5"],
     "module": "CommonJS",
+		"moduleResolution": "Node",
     "allowJs": true,
     "checkJs": true,
     "noEmit": true,
